@@ -19,7 +19,7 @@ function App() {
     </div>
   <div className="middle-panel"><FileExplorer/></div>
   <div className="right-panel">
-    <div style={{width:"750px",height:"35live-code0px"}}>
+    <div style={{width:"750px",height:"350px"}}>
     <CodeEditor />
     </div>
   
